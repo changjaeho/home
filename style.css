@@ -1,0 +1,335 @@
+/* aligns all of these tags text to the center*/
+h1, h2, p, li, ul, h3 {text-align: center;
+}
+/* sets margin and padding for these tags to 0*/
+html, body{margin:0px;
+		   padding:0px;
+}
+/* sets h1 tags font size to 50px*/
+h1 { font-size: 50px
+}
+/* adds style to ul tags*/
+ul {list-style: inside;
+	color: brown;
+	font-size: 25px;
+}
+/* sets this specific images position on the main page, along with other code*/
+.rightimage1_1 {position: absolute;
+			    top: 500px;
+			    right: 30px;
+			    text-align: center;
+			    margin-top: 20px;
+				margin: 0%;
+}
+/* sets this specific images position on the main page, along with other code*/
+.leftimage1_1 {position: absolute;
+			   top: 500px;
+			   left: 30px;
+			   text-align: center;
+			   margin-top: 20px;
+			   margin: 0%;
+}
+/* sets background color of main page*/			   
+body {background-color: #80c5c5;
+	  background-size:cover;
+}
+/* sets font family, size, and style for every p tag without a class*/
+p {font-size: 25px;
+   font-family: cursive;
+   font-style: italic;
+}
+/* sets line over tables width and color*/
+hr {width: 200px;
+	color: black;
+}
+/* sets all table borders and background-colors*/
+table { border: 4px solid black;
+		background-color: black;
+}
+/* styles border background color*/ 
+.PinkCol {background-color: #B19CD9;		
+}
+/* styles border background color*/ 
+.OrangeCol {background-color: orange;
+}
+/* styles border background color*/ 
+.GreenCol {background-color: #98FB98;
+}
+/* styles border background color*/ 
+.RedCol {background-color: #FF6961;
+}
+/* sets margin for main table*/
+.TableOfContents {margin-left: auto;
+  				  margin-right: auto;
+}
+/* pads table header*/
+th {padding: 20px;
+}
+/* pads table content*/
+td {padding: 10px;
+}
+/* sets background color for favourites webpage*/
+.FavouritesBackground {background-color: #D0F0C0;
+}
+/* sets background color for hobbies webpage*/
+.HobbiesBackground {background-color: #E0BBE4;
+}
+/* sets background color for family webpage*/
+.FamilyBackground {background-color: #C39B77;
+}
+/* sets background color for reference webpage*/
+.ReferencesBackground {background-color: #C0C0C0;
+}
+/* makes it so that if you hover over an a tag, the font color turns red*/
+a:hover {color: #FF0000;
+}
+
+
+/* sets this specific images position on the main page, along with other code*/
+.leftimage1_2 {float: right;
+			   position: absolute;
+			   left: 30px;
+			   top: 50px;
+			   text-align: center;
+			   margin-top: 20px;
+			   margin: 0%;
+}
+/* sets this specific images position on the main page, along with other code*/
+.rightimage1_2 {float: left;
+			   position: absolute;
+			   right: 30px;
+			   top: 100px;
+			   text-align: center;
+			   margin-top: 20px;
+			   margin: 0%;
+}
+/* sets font size and family for hobby page and favourites page*/
+.hobbiesfont {font-family:Times New Roman, serif;
+			  font-size: 25px;
+}
+/* makes the h2 look good with color and border*/
+.hobbiesh2 {color: #006400;
+			border:3px; 
+			border-style:solid;
+			text-align:center;
+			position:relative;
+			width:fit-content;
+			margin: auto;
+			border-color:black;
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageleft1 {float: left;
+			      position: absolute;
+			      left: 20px;
+			      top: -25px;
+			      text-align: center;
+			      margin-top: 20px;
+			      margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageright1 {float: right;
+			       position: absolute;
+			       right: 20px;
+			       top: -25px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageleft2 {float: left;
+			      position: absolute;
+			      left: 20px;
+			      top: 300px;
+			      text-align: center;
+			      margin-top: 20px;
+			      margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageright2 {float: right;
+			       position: absolute;
+			       right: 20px;
+			       top: 300px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageleft3 {float: left;
+			      position: absolute;
+			      left: 20px;
+			      top: 600px;
+			      text-align: center;
+			      margin-top: 20px;
+			      margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageright3 {float: right;
+			       position: absolute;
+			       right: 20px;
+			       top: 600px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageleft4 {float: left;
+			      position: absolute;
+			      left: 20px;
+			      top: 925px;
+			      text-align: center;
+			      margin-top: 20px;
+			      margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageright4 {float: right;
+			       position: absolute;
+			       right: 20px;
+			       top: 925px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageleft5 {float: left;
+			      position: absolute;
+			      left: 20px;
+			      top: 1225px;
+			      text-align: center;
+			      margin-top: 20px;
+			      margin: 0%
+}
+/* sets this specific images position on the hobby page, along with other code*/
+.hobbyimageright5 {float: right;
+			       position: absolute;
+			       right: 20px;
+			       top: 1225px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageright1 {float: right;
+			        position: absolute;
+			        right: 20px;
+			        top: -25px;
+			        text-align: center;
+			        margin-top: 20px;
+			        margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageleft1 {float: left;
+			       	position: absolute;
+			       	left: 20px;
+			       	top: -25px;
+			       	text-align: center;
+			       	margin-top: 20px;
+			       	margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageleft2 {float: left;
+			       position: absolute;
+			       left: 20px;
+			       top: 360px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageright2 {float: right;
+			        position: absolute;
+			        right: 20px;
+			        top: 350px;
+			        text-align: center;
+			        margin-top: 20px;
+			        margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageleft3 {float: left;
+			       position: absolute;
+			       left: 20px;
+			       top: 725px;
+			       text-align: center;
+			       margin-top: 20px;
+			       margin: 0%
+}
+/* sets this specific images position on the family page, along with other code*/
+.familyimageright3 {float: right;
+			        position: absolute;
+			        right: 20px;
+			        top: 725px;
+			        text-align: center;
+			        margin-top: 20px;
+			        margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageleft1 {float: left;
+			       	  position: absolute;
+			      	  left: 20px;
+			      	  top: 0px;
+			      	  text-align: center;
+			      	  margin-top: 20px;
+			       	  margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageright1 {float: right;
+			        	position: absolute;
+			        	right: 20px;
+			        	top: 0px;
+			        	text-align: center;
+			        	margin-top: 20px;
+			        	margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageleft2 {float: left;
+			       	   position: absolute;
+			      	   left: 20px;
+			      	   top: 350px;
+			      	   text-align: center;
+			      	   margin-top: 20px;
+			       	   margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageright2 {float: right;
+			        	position: absolute;
+			        	right: 20px;
+			        	top: 350px;
+			        	text-align: center;
+			        	margin-top: 20px;
+			        	margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageleft3 {float: left;
+			       	   position: absolute;
+			      	   left: 20px;
+			      	   top: 650px;
+			      	   text-align: center;
+			      	   margin-top: 20px;
+			       	   margin: 0%;
+}
+/* sets this specific images position on the favourites page, along with other code*/
+.favouritesimageright3 {float: right;
+			        	position: absolute;
+			        	right: 20px;
+			        	top: 650px;
+			        	text-align: center;
+			        	margin-top: 20px;
+			        	margin: 0%;
+}
+/* sets the html validation button images position on each page, along with other code*/
+.validation {position: absolute;
+			 right: 30%;
+			 top: 10%;
+			 text-align: center;
+			 margin-top: 20px;
+			 margin: 0%;
+}
+/* sets the css validation button images position on the home page, along with other code*/
+.cssvalidation {position: absolute;
+			    right: 65%;
+			    top: 10%;
+			    text-align: center;
+			    margin-top: 20px;
+			    margin: 0%;
+}
+
+
